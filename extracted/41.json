@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mr.",
+  "Age": "29",
+  "Gender": "Male",
+  "Date of appointment": "11/03/1994",
+  "Doctor's Name": "B. D. Wootton",
+  "Doctor's Qualification": "Medical Assistant",
+  "Doctor's Registration Number": "Tel: 388623",
+  "Hospital/Clinic Name": "Farm Street 12",
+  "Hospital/Clinic Address": "Kirkville",
+  "Hospital Phone Number": "Tel: 388623",
+  "Symptoms / Chief Complaints": "Anxiety",
+  "Diagnosis": "Anxiety",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

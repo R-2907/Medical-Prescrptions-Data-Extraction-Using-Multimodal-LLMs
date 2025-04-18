@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Ms. Kamini",
+  "Age": "35",
+  "Gender": "Female",
+  "Date of appointment": "12/03/2019",
+  "Doctor's Name": "Dr. Jaydeep Vajpai",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "2002003",
+  "Hospital/Clinic Name": "Mumbai",
+  "Hospital/Clinic Address": "Turmeric Road",
+  "Hospital Phone Number": "22002003",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Tab. Landox",
+      "dosage": "1 tab. 3 times a day",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": "Tabs. Landox 3 times a day for 7 days"
+}

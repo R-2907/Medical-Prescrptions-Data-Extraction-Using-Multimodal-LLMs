@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Sunil",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "11/03/2019",
+  "Doctor's Name": "Dr. S. K. Gupta",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "Sunrise Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Pain in the ear",
+  "Diagnosis": "Bilateral Protruded Hearing Loops",
+  "Medicines": [
+    {
+      "name": "CT Scan",
+      "dosage": "1000 mg",
+      "frequency": "1 tablet daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "MRI",
+  "Special Instructions": "No peak at 900 Hz"
+}

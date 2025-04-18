@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Fred Braggs",
+  "Age": "80",
+  "Gender": "Male",
+  "Date of appointment": "03/10/2009",
+  "Doctor's Name": "Tony Anderson",
+  "Doctor's Qualification": "Doctor",
+  "Doctor's Registration Number": "DEA 234567",
+  "Hospital/Clinic Name": "Doctors Urgent Care",
+  "Hospital/Clinic Address": "3300 N. 1st Ave.",
+  "Hospital Phone Number": "555-555-5555",
+  "Symptoms / Chief Complaints": "Chest pain",
+  "Diagnosis": "Angina",
+  "Medicines": [
+    {
+      "name": "Lipitor",
+      "dosage": "10 mg",
+      "frequency": "daily",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "EKG",
+  "Special Instructions": "Take Lipitor as prescribed"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "John R. Doe",
+  "Age": "45",
+  "Gender": "Male",
+  "Date of appointment": "02/23/1999",
+  "Doctor's Name": "US Navy",
+  "Doctor's Qualification": "US Navy",
+  "Doctor's Registration Number": "HM3",
+  "Hospital/Clinic Name": "Medical Facility",
+  "Hospital/Clinic Address": "Naval Base",
+  "Hospital Phone Number": "123-456-7890",
+  "Symptoms / Chief Complaints": "Amnesia",
+  "Diagnosis": "Traumatic Brain Injury",
+  "Medicines": [
+    {
+      "name": "Belladonna",
+      "dosage": "15mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "CT Scan",
+  "Special Instructions": "Belladonna 15mg 3 times a day oral"
+}

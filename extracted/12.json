@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Jesus",
+  "Age": null,
+  "Gender": null,
+  "Date of appointment": null,
+  "Doctor's Name": "Charles",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": null,
+  "Hospital/Clinic Name": null,
+  "Hospital/Clinic Address": null,
+  "Hospital Phone Number": null,
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1 tablet, 4 times a day",
+      "frequency": "As needed",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": null,
+  "Special Instructions": "Take medication as prescribed"
+}

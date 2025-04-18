@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mrs. Pain",
+  "Age": "25",
+  "Gender": "Female",
+  "Date of appointment": "03/12/2015",
+  "Doctor's Name": "Dr. J. Pain",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "1234567",
+  "Hospital/Clinic Name": "Mary Street Clinic",
+  "Hospital/Clinic Address": "123 Mary Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Pain",
+  "Diagnosis": "Migraine",
+  "Medicines": [
+    {
+      "name": "Rizatriptan",
+      "dosage": "5 mg",
+      "frequency": "1 tablet",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

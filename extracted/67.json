@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Sarah",
+  "Age": "30",
+  "Gender": "Female",
+  "Date of appointment": "11/02/2020",
+  "Doctor's Name": "Dr. John",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "RG6728",
+  "Hospital/Clinic Name": "Hospital X",
+  "Hospital/Clinic Address": "Address X",
+  "Hospital Phone Number": "1234567890",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed"
+}

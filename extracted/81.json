@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Adley Matic",
+  "Age": "4",
+  "Gender": "Female",
+  "Date of appointment": "19-03-2019",
+  "Doctor's Name": "Dr. Ramesh S.",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "4232",
+  "Hospital/Clinic Name": "Shivaprasad Children's Care Center",
+  "Hospital/Clinic Address": "Sarjapur Road",
+  "Hospital Phone Number": "080-2345-6789",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Rosuvastatin",
+      "dosage": "10 mg",
+      "frequency": "Once daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

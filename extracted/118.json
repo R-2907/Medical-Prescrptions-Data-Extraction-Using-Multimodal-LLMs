@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Nirmala",
+  "Age": "32",
+  "Gender": "Female",
+  "Date of appointment": "2015-03-20",
+  "Doctor's Name": "Dr. Ramesh",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "KL 12345",
+  "Hospital/Clinic Name": "Ninth Super Speciality Hospital",
+  "Hospital/Clinic Address": "Harring Road, Chennai",
+  "Hospital Phone Number": "044-2435-6789",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Levofloxacin",
+      "dosage": "500 mg",
+      "frequency": "Oral",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood Culture",
+  "Special Instructions": "Take medication as prescribed"
+}

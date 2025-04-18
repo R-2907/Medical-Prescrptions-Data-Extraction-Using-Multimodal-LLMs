@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Lina Cruz",
+  "Age": "20",
+  "Gender": "Female",
+  "Date of appointment": "02/24/2017",
+  "Doctor's Name": "Dr. Lina Cruz",
+  "Doctor's Qualification": "Medical Assistant",
+  "Doctor's Registration Number": "20",
+  "Hospital/Clinic Name": "Medical Assistant Clinic",
+  "Hospital/Clinic Address": "123 Main St",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Headache",
+  "Diagnosis": "Migraine",
+  "Medicines": [
+    {
+      "name": "Ibuprofen",
+      "dosage": "200 mg",
+      "frequency": "2 tablets every 4 hours",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

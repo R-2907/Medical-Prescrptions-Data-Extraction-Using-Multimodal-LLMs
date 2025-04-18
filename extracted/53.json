@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Chiba McGregor",
+  "Age": "32",
+  "Gender": "Male",
+  "Date of appointment": "11/01/2011",
+  "Doctor's Name": "Dr. Dhananjay Gupta",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "DACO 047",
+  "Hospital/Clinic Name": "Sports Physio",
+  "Hospital/Clinic Address": "1234 Sports Physio",
+  "Hospital Phone Number": "432 1234",
+  "Symptoms / Chief Complaints": "Low energy",
+  "Diagnosis": "Low energy",
+  "Medicines": [
+    {
+      "name": "Billiruben",
+      "dosage": "100 mg",
+      "frequency": "1 tablet daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood tests",
+  "Special Instructions": "Avoid excessive physical activity, eat a balanced diet, take medication as prescribed, follow up with doctor in 2 weeks"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Lolita Alvarez",
+  "Age": "63",
+  "Gender": "Female",
+  "Date of appointment": "02/19/2013",
+  "Doctor's Name": "Jolito Alvarez",
+  "Doctor's Qualification": "Physician",
+  "Doctor's Registration Number": "Lic. No. 2124",
+  "Hospital/Clinic Name": "Ragong Blog Pacig City",
+  "Hospital/Clinic Address": "Address",
+  "Hospital Phone Number": "09178543212",
+  "Symptoms / Chief Complaints": "Asthma",
+  "Diagnosis": "Asthma",
+  "Medicines": [
+    {
+      "name": "Fesep 500 mg Tablet",
+      "dosage": "1 tablet",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "None",
+  "Special Instructions": "Anne a day"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "B. W.",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "11/03/1951",
+  "Doctor's Name": "Dr. B. W.",
+  "Doctor's Qualification": "MB",
+  "Doctor's Registration Number": "Tel: 337",
+  "Hospital/Clinic Name": "Farm Street",
+  "Hospital/Clinic Address": "Kirkville",
+  "Hospital Phone Number": "Tel: 337",
+  "Symptoms / Chief Complaints": "Paraplegia",
+  "Diagnosis": "Paraplegia",
+  "Medicines": [
+    {
+      "name": "Parkinsonism",
+      "dosage": "50mg",
+      "frequency": "2 tablets",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": "Parkinsonism 50mg 2 tablets oral"
+}

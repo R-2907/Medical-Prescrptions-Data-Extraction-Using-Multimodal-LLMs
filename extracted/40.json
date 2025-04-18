@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Kishan Boorugudu",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "19/03/2015",
+  "Doctor's Name": "Dr. Harikishan Boorugudu",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "Yashoda Hospital Hyderabad 09849000000",
+  "Hospital/Clinic Name": "Yashoda Hospital Hyderabad",
+  "Hospital/Clinic Address": "Plot No. 10, Road No. 2, Banjara Hills, Hyderabad - 500034",
+  "Hospital Phone Number": "040-2355 2355",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1000 mg",
+      "frequency": "2 tablets, 4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

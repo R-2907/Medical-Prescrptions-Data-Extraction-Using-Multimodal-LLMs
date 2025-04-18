@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mr. Venkatesh Ripani",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "18/01/2011",
+  "Doctor's Name": "Dr. M. Vinod",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "GZU 0001",
+  "Hospital/Clinic Name": "Yashoda Hospitals",
+  "Hospital/Clinic Address": "Plot No. 1, Road No. 3, Banjara Hills, Hyderabad - 500 034",
+  "Hospital Phone Number": "040-2355 2001",
+  "Symptoms / Chief Complaints": "Lipoma",
+  "Diagnosis": "Lipoma",
+  "Medicines": [
+    {
+      "name": "Liposomal B",
+      "dosage": "1000 mg",
+      "frequency": "1 tab qd",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

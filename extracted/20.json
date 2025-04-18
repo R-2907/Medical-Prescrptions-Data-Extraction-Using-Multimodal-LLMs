@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mrs. M. J. Pain",
+  "Age": "85",
+  "Gender": "Female",
+  "Date of appointment": "03/01/2012",
+  "Doctor's Name": "Dr. B. Blum",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "15923192",
+  "Hospital/Clinic Name": "123 Main St.",
+  "Hospital/Clinic Address": "Frisco, TX",
+  "Hospital Phone Number": "123-456-7890",
+  "Symptoms / Chief Complaints": "Pain",
+  "Diagnosis": "Shingles",
+  "Medicines": [
+    {
+      "name": "Acyclovir",
+      "dosage": "25 mg",
+      "frequency": "4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

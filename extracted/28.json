@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Subhash Kumar Kulreshtha",
+  "Age": "55",
+  "Gender": "Male",
+  "Date of appointment": "01/17/2017",
+  "Doctor's Name": "Dr. Amol Andhare",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "27353",
+  "Hospital/Clinic Name": "Narayana Multispeciality Hospital",
+  "Hospital/Clinic Address": "Narayana Hospital, 11, Sector 19, CBD Belapur, Navi Mumbai 400614",
+  "Hospital Phone Number": "022-6155 6666",
+  "Symptoms / Chief Complaints": "Lipoma",
+  "Diagnosis": "Lipoma",
+  "Medicines": [
+    {
+      "name": "Inj Liposomal Aprotinin B",
+      "dosage": "300 mg",
+      "frequency": "1-2 times a day",
+      "route": "Injection"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

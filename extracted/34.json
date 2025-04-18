@@ -1,0 +1,24 @@
+{
+  "Patient Name": null,
+  "Age": null,
+  "Gender": null,
+  "Date of appointment": "2015-01-01",
+  "Doctor's Name": "Dr. P. K. Mukherjee",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": null,
+  "Special Instructions": "Take medication as prescribed"
+}

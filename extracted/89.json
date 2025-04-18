@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Vargas Ramon",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "12/05/2001",
+  "Doctor's Name": "Berdi 20mg",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "1234567",
+  "Hospital/Clinic Name": "Medical Center Hospital",
+  "Hospital/Clinic Address": "1234 5th St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Berdi 20mg",
+      "dosage": "20mg",
+      "frequency": "1 tablet",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "WBC",
+  "Special Instructions": "Take with food"
+}

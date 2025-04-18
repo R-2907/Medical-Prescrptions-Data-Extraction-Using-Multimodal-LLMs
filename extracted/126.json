@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Shirley Pawell",
+  "Age": "60",
+  "Gender": "Female",
+  "Date of appointment": "11/07/2011",
+  "Doctor's Name": "Allen",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "1234567",
+  "Hospital/Clinic Name": "American Pharmacists Association Pharmacy Library",
+  "Hospital/Clinic Address": "123 Main St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Severe pain",
+  "Diagnosis": "Phosphate deficiency",
+  "Medicines": [
+    {
+      "name": "Phosphorus",
+      "dosage": "100 mg",
+      "frequency": "100 mg",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": "Take with food"
+}

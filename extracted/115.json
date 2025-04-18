@@ -1,0 +1,23 @@
+{
+  "Patient Name": "Shalina Ray",
+  "Age": "35",
+  "Gender": "Female",
+  "Date of appointment": "01/01/2015",
+  "Doctor's Name": "Vijayalakshmi",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "9876543210",
+  "Hospital/Clinic Name": "Manipal Hospital",
+  "Hospital/Clinic Address": "Address",
+  "Hospital Phone Number": "1234567890",
+  "Symptoms / Chief Complaints": "Liposomal Amphotericin B",
+  "Diagnosis": "Liposomal Amphotericin B",
+  "Medicines": [
+    {
+      "name": "Liposomal Amphotericin B",
+      "dosage": "500 mg",
+      "frequency": "1 dose",
+      "route": "IV"
+    }
+  ],
+  "Lab Tests / Investigations": "..."
+}

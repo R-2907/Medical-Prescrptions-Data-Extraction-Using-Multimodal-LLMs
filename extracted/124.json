@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Daljit Kundu",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "06/05/2013",
+  "Doctor's Name": "Jonny Kumar",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Bone pain",
+  "Diagnosis": "MBC",
+  "Medicines": [
+    {
+      "name": "Platinum",
+      "dosage": "100 mg",
+      "frequency": "1 tab daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Bone marrow aspiration",
+  "Special Instructions": "Follow up in 3 months"
+}

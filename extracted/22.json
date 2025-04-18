@@ -1,0 +1,24 @@
+{
+  "Patient Name": "William Lewis Towns",
+  "Age": "65",
+  "Gender": "Male",
+  "Date of appointment": "11/25/1988",
+  "Doctor's Name": "William Lewis Towns",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "2217",
+  "Hospital/Clinic Name": "William Lewis Towns",
+  "Hospital/Clinic Address": "163 E. 16th St.",
+  "Hospital Phone Number": "216-221-7292",
+  "Symptoms / Chief Complaints": "Pain in the chest",
+  "Diagnosis": "Angina Pectoris",
+  "Medicines": [
+    {
+      "name": "Lipitor",
+      "dosage": "20 mg",
+      "frequency": "1 time daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "EKG",
+  "Special Instructions": "Take Lipitor as directed by physician"
+}

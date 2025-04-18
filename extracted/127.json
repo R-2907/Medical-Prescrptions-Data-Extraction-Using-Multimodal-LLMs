@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Garrison, Cassandra",
+  "Age": "30",
+  "Gender": "Female",
+  "Date of appointment": "11/01/2009",
+  "Doctor's Name": "Garrison, Robert",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "123456789",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main St",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Back pain",
+  "Diagnosis": "Lumbar strain",
+  "Medicines": [
+    {
+      "name": "Oxycodone",
+      "dosage": "10 mg",
+      "frequency": "2 tabs q4-6h",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

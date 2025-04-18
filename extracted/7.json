@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Cavin",
+  "Age": "2",
+  "Gender": "Male",
+  "Date of appointment": "2019-02-27",
+  "Doctor's Name": "Dr. D. Rav Shankar",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "PED",
+  "Hospital/Clinic Name": "Children's Hospital",
+  "Hospital/Clinic Address": "College Hyderabad",
+  "Hospital Phone Number": "0000000000",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Cefuroxime",
+      "dosage": "500 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

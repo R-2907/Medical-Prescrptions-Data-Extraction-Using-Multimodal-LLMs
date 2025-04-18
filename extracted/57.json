@@ -1,0 +1,24 @@
+{
+  "Patient Name": "B. Lath",
+  "Age": "30",
+  "Gender": "Male",
+  "Date of appointment": "11/01/1999",
+  "Doctor's Name": "Dr. Kirksville",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "TEL 3886",
+  "Hospital/Clinic Name": "Farm Street 12",
+  "Hospital/Clinic Address": "Kirksville",
+  "Hospital Phone Number": "TEL 3886",
+  "Symptoms / Chief Complaints": "Bilirubin 0.24",
+  "Diagnosis": "Talletel da no 7",
+  "Medicines": [
+    {
+      "name": "Bilirubin",
+      "dosage": "0.24",
+      "frequency": "1",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "R",
+  "Special Instructions": "..."
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Rosalinda R.",
+  "Age": "20",
+  "Gender": "Female",
+  "Date of appointment": "03/20/2015",
+  "Doctor's Name": "Dr. Maria",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "Gardenia",
+  "Hospital/Clinic Address": "123 Gardenia Road",
+  "Hospital Phone Number": "123-456-7890",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1 tablet, 4 times a day",
+      "frequency": "4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Please take the medication as prescribed."
+}

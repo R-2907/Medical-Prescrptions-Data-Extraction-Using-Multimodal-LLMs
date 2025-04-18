@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mrs. S. M. Curley",
+  "Age": "65",
+  "Gender": "Female",
+  "Date of appointment": "19/03/2019",
+  "Doctor's Name": "Dr. P. O.",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "GMC No. 1234567",
+  "Hospital/Clinic Name": "GMC No. 1234567",
+  "Hospital/Clinic Address": "1234567",
+  "Hospital Phone Number": "1234567",
+  "Symptoms / Chief Complaints": "Pain",
+  "Diagnosis": "Pain",
+  "Medicines": [
+    {
+      "name": "Glaetamol",
+      "dosage": "2 tablets",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Start on 19/03/2019"
+}

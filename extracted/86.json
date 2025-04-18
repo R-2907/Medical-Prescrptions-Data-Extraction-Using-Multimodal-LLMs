@@ -1,0 +1,24 @@
+{
+  "Patient Name": "P. A. B. D.",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "1948-03-15",
+  "Doctor's Name": "Dr. P. A. B.",
+  "Doctor's Qualification": "M.B.B.S.",
+  "Doctor's Registration Number": "12345",
+  "Hospital/Clinic Name": "St. Xavier's Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Typhoid Fever",
+  "Medicines": [
+    {
+      "name": "Ampicillin",
+      "dosage": "2 gm, 3 times a day",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood Culture",
+  "Special Instructions": "Please take the medicine as prescribed and report any side effects to the doctor."
+}

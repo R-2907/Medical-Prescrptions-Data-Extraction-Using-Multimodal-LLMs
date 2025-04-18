@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mr. Atay Sethi",
+  "Age": "62",
+  "Gender": "Male",
+  "Date of appointment": "24/04/2014",
+  "Doctor's Name": "Dr. Ajay S. Sethi",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "Tourist Hospital",
+  "Hospital/Clinic Address": "Address not visible",
+  "Hospital Phone Number": "1234567890",
+  "Symptoms / Chief Complaints": "Cough, cold, fever",
+  "Diagnosis": "Common cold",
+  "Medicines": [
+    {
+      "name": "Covid-19",
+      "dosage": "200mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medicines as prescribed"
+}

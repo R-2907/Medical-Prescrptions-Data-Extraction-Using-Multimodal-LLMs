@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Baby",
+  "Age": "1",
+  "Gender": "Male",
+  "Date of appointment": "01/01/2015",
+  "Doctor's Name": "Dr. John",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main St, Anytown, USA",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Bronchitis",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Follow up in 3 days"
+}

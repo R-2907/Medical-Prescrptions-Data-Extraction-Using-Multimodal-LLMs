@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Lami",
+  "Age": "32",
+  "Gender": "Female",
+  "Date of appointment": "02/23/2022",
+  "Doctor's Name": "Pitam Pura",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "KL 100",
+  "Hospital/Clinic Name": "Bhagwan Mahavir Hospital",
+  "Hospital/Clinic Address": "Pt. Deen Dayal Upadhyay Marg, Delhi - 110009",
+  "Hospital Phone Number": "011-2338 2000",
+  "Symptoms / Chief Complaints": "Pain in abdomen",
+  "Diagnosis": "Pain abdomen",
+  "Medicines": [
+    {
+      "name": "Diclofenac",
+      "dosage": "50 mg",
+      "frequency": "2 tablets",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Ultrasound",
+  "Special Instructions": "Review in OPD"
+}

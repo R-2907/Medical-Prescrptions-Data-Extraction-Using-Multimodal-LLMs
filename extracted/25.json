@@ -1,0 +1,24 @@
+{
+  "Patient Name": "L. E. Stenger",
+  "Age": "48",
+  "Gender": "Male",
+  "Date of appointment": "10/15/1915",
+  "Doctor's Name": "Dr. E. F. Stenger",
+  "Doctor's Qualification": "Physician",
+  "Doctor's Registration Number": "202",
+  "Hospital/Clinic Name": "Walton Physicians Supply Co.",
+  "Hospital/Clinic Address": "East State St.",
+  "Hospital Phone Number": "10",
+  "Symptoms / Chief Complaints": "Rheumatism",
+  "Diagnosis": "Rheumatism",
+  "Medicines": [
+    {
+      "name": "Rheumatism",
+      "dosage": "1/2",
+      "frequency": "1",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

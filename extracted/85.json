@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mrs. Meena Dixit",
+  "Age": "45",
+  "Gender": "Female",
+  "Date of appointment": "18/02/2020",
+  "Doctor's Name": "Dr. D. Kumar",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "Rajiv Gandhi Cancer Institute",
+  "Hospital/Clinic Address": "Address not visible",
+  "Hospital Phone Number": "0000000000",
+  "Symptoms / Chief Complaints": "Carcinoma Left Breast",
+  "Diagnosis": "Carcinoma Left Breast",
+  "Medicines": [
+    {
+      "name": "Cyclophosphamide",
+      "dosage": "500 mg",
+      "frequency": "Once a week",
+      "route": "Intravenous"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood tests",
+  "Special Instructions": "Treatment plan to be followed by radiation therapy for surgery & A/C/RT"
+}

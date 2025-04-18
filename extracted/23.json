@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Ajay",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "01/01/2015",
+  "Doctor's Name": "Dr. Ramesh",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Headache",
+  "Diagnosis": "Tension Headache",
+  "Medicines": [
+    {
+      "name": "Ranitidine",
+      "dosage": "150mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

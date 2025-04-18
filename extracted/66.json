@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Pt. Ms. Y.M.D.",
+  "Age": "30",
+  "Gender": "Female",
+  "Date of appointment": "10/01/2014",
+  "Doctor's Name": "Dr. S.R.",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "Umdb 12345",
+  "Hospital/Clinic Name": "Dr. S.R. Clinic",
+  "Hospital/Clinic Address": "123 Main St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, cough, cold",
+  "Diagnosis": "Common cold",
+  "Medicines": [
+    {
+      "name": "Cetirizine",
+      "dosage": "10 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed"
+}

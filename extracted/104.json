@@ -1,0 +1,24 @@
+{
+  "Patient Name": "S. L. Dhammim",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "11/03/2014",
+  "Doctor's Name": "Dr. S. S. S. S. S. S.",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "S. S. S. S. S. S.",
+  "Hospital/Clinic Address": "S. S. S. S. S. S.",
+  "Hospital Phone Number": "1234567890",
+  "Symptoms / Chief Complaints": "Pain in the left knee",
+  "Diagnosis": "Temporal bone fracture",
+  "Medicines": [
+    {
+      "name": "Retracted TMJ",
+      "dosage": "1000 mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "X-ray",
+  "Special Instructions": "Avoid weight-bearing activities on the affected leg."
+}

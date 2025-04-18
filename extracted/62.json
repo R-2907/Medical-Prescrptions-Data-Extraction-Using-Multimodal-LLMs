@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Rajni Thakur",
+  "Age": "28",
+  "Gender": "Female",
+  "Date of appointment": "15/03/2015",
+  "Doctor's Name": "Dr. Rohit Thakur",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "M.R. Medico",
+  "Hospital/Clinic Address": "123, Main Road",
+  "Hospital Phone Number": "0123-4567890",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1 tablet, 4 times a day",
+      "frequency": "4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Fever test",
+  "Special Instructions": "Take medicines as prescribed and get the fever test done."
+}

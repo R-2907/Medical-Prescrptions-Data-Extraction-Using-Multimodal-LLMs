@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Lillian Mellish",
+  "Age": "32",
+  "Gender": "Female",
+  "Date of appointment": "1905",
+  "Doctor's Name": "Dr. John Smith",
+  "Doctor's Qualification": "MB",
+  "Doctor's Registration Number": "12345",
+  "Hospital/Clinic Name": "St. Mary's Hospital",
+  "Hospital/Clinic Address": "123 Main St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, cough, and sore throat",
+  "Diagnosis": "Influenza",
+  "Medicines": [
+    {
+      "name": "Chlorodyne",
+      "dosage": "1 tablet 3 times a day",
+      "frequency": "daily",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Rest, hydration, and bed rest"
+}

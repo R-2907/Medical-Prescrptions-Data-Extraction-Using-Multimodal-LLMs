@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mrs. C. B.",
+  "Age": "35",
+  "Gender": "Female",
+  "Date of appointment": "1934-03-03",
+  "Doctor's Name": "Dr. W. P. Baker",
+  "Doctor's Qualification": "Physician and Surgeon",
+  "Doctor's Registration Number": "Columbia 344",
+  "Hospital/Clinic Name": "Dr. W. P. Baker",
+  "Hospital/Clinic Address": "Keefer Building",
+  "Hospital Phone Number": "Keep writing",
+  "Symptoms / Chief Complaints": "Sick headache",
+  "Diagnosis": "Sick headache",
+  "Medicines": [
+    {
+      "name": "Caffeine",
+      "dosage": "100 mg",
+      "frequency": "1",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "None",
+  "Special Instructions": "Take this to Cameron's Drug Store"
+}

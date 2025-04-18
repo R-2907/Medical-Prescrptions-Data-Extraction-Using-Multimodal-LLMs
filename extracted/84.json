@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Maleha Doshi",
+  "Age": "25",
+  "Gender": "Female",
+  "Date of appointment": "25/02/2002",
+  "Doctor's Name": "Dr. M. Doshi",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "22012002",
+  "Hospital/Clinic Name": "M. Doshi Clinic",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Anxiety, Depression",
+  "Diagnosis": "Anxiety, Depression",
+  "Medicines": [
+    {
+      "name": "Atomoxetine",
+      "dosage": "40 mg",
+      "frequency": "1",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

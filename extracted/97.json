@@ -1,0 +1,36 @@
+{
+  "Patient Name": "John Smith",
+  "Age": "33",
+  "Gender": "Male",
+  "Date of appointment": "12/09/2011",
+  "Doctor's Name": "Steve Johnson",
+  "Doctor's Qualification": "Dr.",
+  "Doctor's Registration Number": "0000000000",
+  "Hospital/Clinic Name": "River Side Medical Centre",
+  "Hospital/Clinic Address": "1234 Empire St, New York, NY 10001, USA",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Flu",
+  "Medicines": [
+    {
+      "name": "Betamethasone 10mg",
+      "dosage": "1 tablet",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    },
+    {
+      "name": "Dorzolamide 20mg",
+      "dosage": "1 tablet",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    },
+    {
+      "name": "Cimetidine 400mg",
+      "dosage": "1 tablet",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

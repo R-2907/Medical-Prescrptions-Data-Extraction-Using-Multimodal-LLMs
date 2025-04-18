@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Varguez Ramon",
+  "Age": "22",
+  "Gender": "Male",
+  "Date of appointment": "06/22/2002",
+  "Doctor's Name": "Fermin Saludable",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "1234567",
+  "Hospital/Clinic Name": "Medical Center Hospital",
+  "Hospital/Clinic Address": "123 4th St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "200mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Zabidul Hossain",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "11/09/2010",
+  "Doctor's Name": "Eloi Palen",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "181010",
+  "Hospital/Clinic Name": "Hospital Name",
+  "Hospital/Clinic Address": "Hospital Address",
+  "Hospital Phone Number": "Hospital Phone Number",
+  "Symptoms / Chief Complaints": "Knee pain",
+  "Diagnosis": "Knee pain",
+  "Medicines": [
+    {
+      "name": "Rx",
+      "dosage": "1",
+      "frequency": "1",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "X Ray",
+  "Special Instructions": "No surgery, no steroids, no physio, no exercise, no only pain relief"
+}

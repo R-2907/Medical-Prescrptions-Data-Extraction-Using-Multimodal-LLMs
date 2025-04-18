@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Zafarullah",
+  "Age": "40",
+  "Gender": "Male",
+  "Date of appointment": "10/12/2014",
+  "Doctor's Name": "Dr. Zafarullah",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, Cough, and Sore Throat",
+  "Diagnosis": "Common Cold",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1 tablet, 4 times a day",
+      "frequency": "As needed",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed and rest for 2 days"
+}

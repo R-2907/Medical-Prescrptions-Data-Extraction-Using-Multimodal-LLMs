@@ -1,0 +1,24 @@
+{
+  "Patient Name": "B. H. W.",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "11/03/1994",
+  "Doctor's Name": "Farmstreet 12",
+  "Doctor's Qualification": "MB",
+  "Doctor's Registration Number": "TEL: 3886386",
+  "Hospital/Clinic Name": "Kirkville",
+  "Hospital/Clinic Address": "Kirkville",
+  "Hospital Phone Number": "TEL: 3886386",
+  "Symptoms / Chief Complaints": "Paroxetine 20mg",
+  "Diagnosis": "Depression",
+  "Medicines": [
+    {
+      "name": "Paroxetine",
+      "dosage": "20mg",
+      "frequency": "1 tablet daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

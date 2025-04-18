@@ -1,0 +1,24 @@
+{
+  "Patient Name": "John Hubbard",
+  "Age": "65",
+  "Gender": "Male",
+  "Date of appointment": "Dec 1",
+  "Doctor's Name": "Dr. James",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "123456789",
+  "Hospital/Clinic Name": "Hospital Fleming",
+  "Hospital/Clinic Address": "3000 N 11th Ave",
+  "Hospital Phone Number": "206-555-1234",
+  "Symptoms / Chief Complaints": "Cough",
+  "Diagnosis": "Asthma",
+  "Medicines": [
+    {
+      "name": "Aspirin",
+      "dosage": "325 mg",
+      "frequency": "2 tablets daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Chest X-ray",
+  "Special Instructions": "Take medication as prescribed"
+}

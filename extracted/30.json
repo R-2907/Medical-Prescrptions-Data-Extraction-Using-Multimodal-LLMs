@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Ms Fiza Mozawala",
+  "Age": "31",
+  "Gender": "Female",
+  "Date of appointment": "12/01/2020",
+  "Doctor's Name": "Dr. Cap",
+  "Doctor's Qualification": "Captain",
+  "Doctor's Registration Number": "1111111111",
+  "Hospital/Clinic Name": "The White Tusk",
+  "Hospital/Clinic Address": "Address not visible",
+  "Hospital Phone Number": "Address not visible",
+  "Symptoms / Chief Complaints": "Toothache",
+  "Diagnosis": "Toothache",
+  "Medicines": [
+    {
+      "name": "Phenytoin Sodium",
+      "dosage": "500mg",
+      "frequency": "2 tablets",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Not visible",
+  "Special Instructions": "Not visible"
+}

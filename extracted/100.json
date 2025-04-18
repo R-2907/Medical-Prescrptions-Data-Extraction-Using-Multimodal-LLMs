@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Dr. W. P. Baker",
+  "Age": null,
+  "Gender": null,
+  "Date of appointment": "1914",
+  "Doctor's Name": "Dr. W. P. Baker",
+  "Doctor's Qualification": "Physician and Surgeon",
+  "Doctor's Registration Number": null,
+  "Hospital/Clinic Name": "Keeley Building",
+  "Hospital/Clinic Address": "Columbia 56",
+  "Hospital Phone Number": null,
+  "Symptoms / Chief Complaints": "Sinus headache",
+  "Diagnosis": null,
+  "Medicines": [
+    {
+      "name": "Caffeine",
+      "dosage": "100 mg",
+      "frequency": "1-2 times daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": null,
+  "Special Instructions": "Take this to Cameron's Drug Store"
+}

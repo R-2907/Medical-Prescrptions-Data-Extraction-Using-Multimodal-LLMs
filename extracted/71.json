@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Sandra",
+  "Age": "37",
+  "Gender": "Female",
+  "Date of appointment": "02/24/2014",
+  "Doctor's Name": "Dr. Dexter",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "DX-717",
+  "Hospital/Clinic Name": "Eagle Lake",
+  "Hospital/Clinic Address": "1111 Eagle Lake Dr.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Flu",
+  "Medicines": [
+    {
+      "name": "Tylenol",
+      "dosage": "1000mg",
+      "frequency": "4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take Tylenol as prescribed"
+}

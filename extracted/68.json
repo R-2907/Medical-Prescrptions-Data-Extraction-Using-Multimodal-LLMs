@@ -1,0 +1,24 @@
+{
+  "Patient Name": "John",
+  "Age": "26",
+  "Gender": "Male",
+  "Date of appointment": "02/06/2013",
+  "Doctor's Name": "Dr. Yasuhiro Fujita",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "W68BH2",
+  "Hospital/Clinic Name": "Cal Poly Arc",
+  "Hospital/Clinic Address": "1 University Place, San Luis Obispo, CA",
+  "Hospital Phone Number": "805-756-1100",
+  "Symptoms / Chief Complaints": "Headache",
+  "Diagnosis": "Migraine",
+  "Medicines": [
+    {
+      "name": "Imitrex",
+      "dosage": "25 mg",
+      "frequency": "As needed",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": "Thank you for the time."
+}

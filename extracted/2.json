@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Mr. M. Hathi",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "15/03/2017",
+  "Doctor's Name": "Dr. S. K. Sethi",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, Cough, and Cold",
+  "Diagnosis": "Acute Upper Respiratory Infection",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500 mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood Culture",
+  "Special Instructions": "Please take the medication as prescribed and follow up with the doctor after 3 days."
+}

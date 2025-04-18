@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Tony",
+  "Age": "20",
+  "Gender": "Male",
+  "Date of appointment": "20/09/2005",
+  "Doctor's Name": "Tony",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "2005001",
+  "Hospital/Clinic Name": "Tondon MLA",
+  "Hospital/Clinic Address": "Tondon MLA",
+  "Hospital Phone Number": "0000000000",
+  "Symptoms / Chief Complaints": "Chest pain",
+  "Diagnosis": "Cardiology",
+  "Medicines": [
+    {
+      "name": "Aspirin",
+      "dosage": "1 tablet",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "ECG",
+  "Special Instructions": "Waiting for lab results"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "T. Nandhini",
+  "Age": "25",
+  "Gender": "Female",
+  "Date of appointment": "24/04/2014",
+  "Doctor's Name": "Dr. B. Ramesh",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "1001001",
+  "Hospital/Clinic Name": "B. Ramesh & Co. Surgical & Laparoscopic Surgery",
+  "Hospital/Clinic Address": "No. 10, 1st Floor, 100 Feet Road",
+  "Hospital Phone Number": "098456 78901",
+  "Symptoms / Chief Complaints": "Fever, Cough, Sore Throat",
+  "Diagnosis": "Kidney Infection",
+  "Medicines": [
+    {
+      "name": "Amoxicillin",
+      "dosage": "500 mg",
+      "frequency": "3 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood Culture & Sensitivity",
+  "Special Instructions": "Follow up in 3 days"
+}

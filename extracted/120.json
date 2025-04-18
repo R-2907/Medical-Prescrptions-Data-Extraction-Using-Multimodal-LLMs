@@ -1,0 +1,24 @@
+{
+  "Patient Name": "La Salle St Surgical",
+  "Age": null,
+  "Gender": null,
+  "Date of appointment": "1960-03-10",
+  "Doctor's Name": "Dr. M. W. Burns",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "16000",
+  "Hospital/Clinic Name": "La Salle St Surgical",
+  "Hospital/Clinic Address": "160 N La Salle St",
+  "Hospital Phone Number": null,
+  "Symptoms / Chief Complaints": "Abdominal pain",
+  "Diagnosis": "Appendicitis",
+  "Medicines": [
+    {
+      "name": "Penicillin",
+      "dosage": "125 mg",
+      "frequency": "3 times a day",
+      "route": "PO"
+    }
+  ],
+  "Lab Tests / Investigations": null,
+  "Special Instructions": "No food or drink after midnight"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Kid",
+  "Age": "2",
+  "Gender": "Male",
+  "Date of appointment": "09/03/2018",
+  "Doctor's Name": "Dr. Ramesh",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "91234567890",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "123-456-7890",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Cefaclor",
+      "dosage": "200 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

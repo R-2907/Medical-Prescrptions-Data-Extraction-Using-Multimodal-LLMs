@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Pemula",
+  "Age": "30",
+  "Gender": "Female",
+  "Date of appointment": "01/01/2015",
+  "Doctor's Name": "Dr. S. S. Rao",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, Cough, Sore Throat",
+  "Diagnosis": "Common Cold",
+  "Medicines": [
+    {
+      "name": "Cetirizine",
+      "dosage": "10 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood Test",
+  "Special Instructions": "Take medication as prescribed and rest well."
+}

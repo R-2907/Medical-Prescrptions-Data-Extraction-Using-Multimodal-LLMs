@@ -1,0 +1,24 @@
+{
+  "Patient Name": "R. G. Combs",
+  "Age": "45",
+  "Gender": "Male",
+  "Date of appointment": "07/19/1973",
+  "Doctor's Name": "R. G. Combs",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "447",
+  "Hospital/Clinic Name": "Northwestern University",
+  "Hospital/Clinic Address": "633 N. Lake Shore Dr.",
+  "Hospital Phone Number": "312-642-6000",
+  "Symptoms / Chief Complaints": "Cocaine addiction",
+  "Diagnosis": "Cocaine addiction",
+  "Medicines": [
+    {
+      "name": "Cocaine",
+      "dosage": "100 mg",
+      "frequency": "as needed",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": "Co-signature required"
+}

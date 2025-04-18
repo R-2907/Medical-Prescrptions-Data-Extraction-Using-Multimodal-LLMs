@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Rajalakshmi Agarwal",
+  "Age": "35",
+  "Gender": "Female",
+  "Date of appointment": "01/01/2020",
+  "Doctor's Name": "Dr. Raghavan",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "XYZ Hospital",
+  "Hospital/Clinic Address": "123 Main Street",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Fever, Cough, Cold, Headache",
+  "Diagnosis": "Common Cold",
+  "Medicines": [
+    {
+      "name": "Crocin",
+      "dosage": "1000 mg",
+      "frequency": "2 tablets, 4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed, drink plenty of fluids, rest, avoid exposure to cold, wear a mask"
+}

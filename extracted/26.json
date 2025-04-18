@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Vargas Ramon",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "06/12/2013",
+  "Doctor's Name": "Zerdin 20mg",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "PH-1338",
+  "Hospital/Clinic Name": "Medical Center Hospital",
+  "Hospital/Clinic Address": "1001 W 15th St, Odessa, TX",
+  "Hospital Phone Number": "361-365-1338",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Zerdin 20mg",
+      "dosage": "20mg",
+      "frequency": "1 tablet",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

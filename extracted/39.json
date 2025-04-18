@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Leonidas H Berry",
+  "Age": "70",
+  "Gender": "Male",
+  "Date of appointment": "02/23/1971",
+  "Doctor's Name": "Leonidas H Berry",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "N.C. 0323",
+  "Hospital/Clinic Name": "International Medicine and Gastroenterology",
+  "Hospital/Clinic Address": "123 East 44th Street, New York, N.Y.",
+  "Hospital Phone Number": "NY 2-2345",
+  "Symptoms / Chief Complaints": "Abdominal pain",
+  "Diagnosis": "Gastroenteritis",
+  "Medicines": [
+    {
+      "name": "Bismuth",
+      "dosage": "1 tsp. 4 times a day",
+      "frequency": "daily",
+      "route": "oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood and urine tests",
+  "Special Instructions": "Follow up in 2 weeks"
+}

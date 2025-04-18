@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Bharat",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "13/11/2019",
+  "Doctor's Name": "Dr. Sangeet Kumar Sharma",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "C0000003",
+  "Hospital/Clinic Name": "Bharat Medical Centre",
+  "Hospital/Clinic Address": "123 Main Road",
+  "Hospital Phone Number": "000-0000-0000",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Rosuvastatin",
+      "dosage": "10 mg",
+      "frequency": "Once daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed"
+}

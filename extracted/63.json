@@ -1,0 +1,24 @@
+{
+  "Patient Name": "30",
+  "Age": "30",
+  "Gender": "Male",
+  "Date of appointment": "07/04/2017",
+  "Doctor's Name": "Dr. CJ",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "N17/0017",
+  "Hospital/Clinic Name": "Hospital Bharatiya Medical Centre",
+  "Hospital/Clinic Address": "Near Rainbow Children's Hospital",
+  "Hospital Phone Number": "011-23456789",
+  "Symptoms / Chief Complaints": "Cough",
+  "Diagnosis": "Cough",
+  "Medicines": [
+    {
+      "name": "Clofazimine",
+      "dosage": "250 mg",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Clofazimine",
+  "Special Instructions": "Take with food"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Bil",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "07/06/2016",
+  "Doctor's Name": "Dr. B.R.",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "123456",
+  "Hospital/Clinic Name": "Medical Center",
+  "Hospital/Clinic Address": "123 Main St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Pain in the abdomen",
+  "Diagnosis": "Kidney stones",
+  "Medicines": [
+    {
+      "name": "Painkiller",
+      "dosage": "1 tablet",
+      "frequency": "2 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Urine test",
+  "Special Instructions": "Follow up in 2 days"
+}

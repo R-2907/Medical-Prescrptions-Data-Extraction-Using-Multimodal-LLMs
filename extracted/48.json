@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Amani Yong Hong",
+  "Age": "34",
+  "Gender": "Male",
+  "Date of appointment": "09/04/2014",
+  "Doctor's Name": "Dr. P.O. Po",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "HK 1234567",
+  "Hospital/Clinic Name": "Hong Kong Sanatorium",
+  "Hospital/Clinic Address": "1 Lung Wo Road, Hong Kong",
+  "Hospital Phone Number": "2837 2222",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "1gm",
+      "frequency": "3 times daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed"
+}

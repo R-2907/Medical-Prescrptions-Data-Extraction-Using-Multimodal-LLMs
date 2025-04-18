@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Kavvy",
+  "Age": "20",
+  "Gender": "Female",
+  "Date of appointment": "15/01/2016",
+  "Doctor's Name": "Dr. S.K. Gupta",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "M-12345",
+  "Hospital/Clinic Name": "M.R. Hospital",
+  "Hospital/Clinic Address": "123 Main Road",
+  "Hospital Phone Number": "0123-4567890",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Fever",
+  "Medicines": [
+    {
+      "name": "Crocin",
+      "dosage": "1000 mg",
+      "frequency": "2 tablets, 4 times a day",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

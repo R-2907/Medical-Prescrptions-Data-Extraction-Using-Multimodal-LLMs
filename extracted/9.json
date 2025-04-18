@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Joseph McIntyre",
+  "Age": "65",
+  "Gender": "Male",
+  "Date of appointment": "March 10, 2009",
+  "Doctor's Name": "C. Jones",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "OH43289",
+  "Hospital/Clinic Name": "Pleasantville Medical Center",
+  "Hospital/Clinic Address": "26 E. Carr Street",
+  "Hospital Phone Number": "440-942-0432",
+  "Symptoms / Chief Complaints": "Fever",
+  "Diagnosis": "Asthma",
+  "Medicines": [
+    {
+      "name": "Azithromycin",
+      "dosage": "200 mg",
+      "frequency": "Day 1-7",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood tests",
+  "Special Instructions": "Dispense 200 mg of Azithromycin orally once daily for 7 days. Follow up with blood tests."
+}

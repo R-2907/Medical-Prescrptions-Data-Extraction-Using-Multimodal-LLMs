@@ -1,0 +1,24 @@
+{
+  "Patient Name": "David",
+  "Age": "35",
+  "Gender": "Male",
+  "Date of appointment": "05/07/2019",
+  "Doctor's Name": "Dr. Pramod",
+  "Doctor's Qualification": "MBBS",
+  "Doctor's Registration Number": "RM-0001",
+  "Hospital/Clinic Name": "Hospital Name",
+  "Hospital/Clinic Address": "Address",
+  "Hospital Phone Number": "000-0000",
+  "Symptoms / Chief Complaints": "Headache",
+  "Diagnosis": "Migraine",
+  "Medicines": [
+    {
+      "name": "Paracetamol",
+      "dosage": "2 tablets, 4 times a day",
+      "frequency": "As needed",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "Blood test",
+  "Special Instructions": "Take medication as prescribed"
+}

@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Alan Johnson",
+  "Age": "39",
+  "Gender": "Male",
+  "Date of appointment": "03/20/2014",
+  "Doctor's Name": "Dr. Alfred Sauls",
+  "Doctor's Qualification": "MD",
+  "Doctor's Registration Number": "123456789",
+  "Hospital/Clinic Name": "Dr. Alfred Sauls",
+  "Hospital/Clinic Address": "1152 S High Rd, Chicago, IL 60637",
+  "Hospital Phone Number": "412-934-5678",
+  "Symptoms / Chief Complaints": "Erythrocytosis",
+  "Diagnosis": "Erythrocytosis",
+  "Medicines": [
+    {
+      "name": "Erythropoietin",
+      "dosage": "400 mg",
+      "frequency": "1x/day",
+      "route": "Injection"
+    }
+  ],
+  "Lab Tests / Investigations": "",
+  "Special Instructions": ""
+}

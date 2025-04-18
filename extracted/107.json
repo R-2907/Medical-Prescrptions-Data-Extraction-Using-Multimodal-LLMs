@@ -1,0 +1,24 @@
+{
+  "Patient Name": "Modestino Suplee",
+  "Age": "75",
+  "Gender": "Male",
+  "Date of appointment": "02/23/2003",
+  "Doctor's Name": "H. A. Proctor",
+  "Doctor's Qualification": "M.D.",
+  "Doctor's Registration Number": "78870403",
+  "Hospital/Clinic Name": "St. Luke's Hospital",
+  "Hospital/Clinic Address": "1111 Main St.",
+  "Hospital Phone Number": "555-1234",
+  "Symptoms / Chief Complaints": "Severe pain in the chest",
+  "Diagnosis": "Myocardial infarction",
+  "Medicines": [
+    {
+      "name": "Aspirin",
+      "dosage": "325 mg",
+      "frequency": "3 times daily",
+      "route": "Oral"
+    }
+  ],
+  "Lab Tests / Investigations": "EKG, Chest X-ray",
+  "Special Instructions": "Please follow up with cardiologist."
+}
